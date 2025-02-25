@@ -1,0 +1,22 @@
+"Nom de la variable","Nom court de la variable","Description de la variable","Nom du thème"
+"adaptive capacity","ad_cap",NA,NA
+"agricultural water use","ag_h2o",NA,NA
+"biodiversity","biodiv",NA,NA
+"ecosystem services","eco_serv",NA,NA
+"environmental disturbance regimes","disturb",NA,NA
+"forest management approaches and the wildfire response","for_mgmt",NA,NA
+"formal legal governance and policy","gov_pol",NA,NA
+"incorporation of traditional watershed knowledges into broader understanding and approaches","trad_know",NA,NA
+"informal governance","inf_gov",NA,NA
+"infrastructure","infra",NA,NA
+"land use and land cover","lulc",NA,NA
+"municipal water use","city_h2o",NA,NA
+"policy innovations","policy_inn",NA,NA
+"public watershed education approaches and knowledge","ws_edu",NA,NA
+"social capital including trust, collaboration, and partnership","soc_cap",NA,NA
+"soil structure and function","soil",NA,NA
+"technical innovations","tech_inn",NA,NA
+"water quality, quantity, and availability","h2o",NA,NA
+"watershed economics","ws_econ",NA,NA
+"weather and climate regimes","wtr_clm",NA,NA
+"wildfire regime","fire",NA,NA
